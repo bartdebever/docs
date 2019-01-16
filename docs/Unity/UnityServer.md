@@ -129,6 +129,29 @@ Let's start off by creating a new script called `ServerScript.cs`.
 public class ServerScript : MonoBehavior
 {
     [SerializedField]
-    public string _ip;
+    public int _port;
+
+    public void Start()
+    {
+        // Registers that when a message comes in, it's handled by the proper method.
+        NetworkServer.RegisterHandler(Convert.ToInt16
+            (MessageType.VotingMessage), OnVotingReceived);
+        NetworkServer.Listen(_port);
+    }
+
+    // Handles the incoming message.
+    private void OnVotingReceived(NetworkMessage networkMessage)
+    {
+        var votingMessage = networkMessage.ReadMessage<VotingMessage>();
+        // Do something with the voting message.
+    }
 }
 ```
+
+`NetworkServer.RegisterHandler()` registers a method to call when a message is received of a particular type.
+So when Unity receives a message with the number `1331` it will call the `OnVotingReceived()` method.
+
+**All of these messages need to have a parameter `NetworkMessage`**.
+
+`ReadMessage<Type>()` converts the gained message into the type you want.
+For us this is the `VotingMessage.cs` class.
