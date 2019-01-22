@@ -25,7 +25,7 @@ weight = 7
   icon = "git"
   icon_pack = "fab"
   name = "Git"
-  description = "Basic knowledge of Git. Prefer using the Visual Studio Team GUI. Using Git-legit."
+  description = "Knowledge of command line Git. Prefer using the Visual Studio Team GUI. Using Git-legit."
   
 [[feature]]
   icon = "microsoft"
@@ -37,13 +37,13 @@ weight = 7
   icon = "java"
   icon_pack = "fab"
   name = "Java"
-  description = "Basic experience"
+  description = "Experience"
 
 [[feature]]
   icon = "angular"
   icon_pack = "fab"
   name = "Angular"
-  description = "Basic expierience using the Angular framework."
+  description = "Expierience using the Angular framework."
 
 [[feature]]
   icon = "js"
@@ -55,20 +55,20 @@ weight = 7
   icon = "html5"
   icon_pack = "fab"
   name = "Basic web development"
-  description = "Basic experience with HTML, CSS and JavaScript."
+  description = "Experience with HTML, CSS and JavaScript."
 
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python 3"
-  description = "Basic experience with Python. Including NumPy, Pandas, MatPlotLib and Skitlearn."
+  description = "Experience with Python. Including NumPy, Pandas, MatPlotLib and Skitlearn."
   #TODO check skitlearn spelling.
 
   [[feature]]
   icon = "linux"
   icon_pack = "fab"
   name = "Linux Experience"
-  description = "Basic experience with working in a Linux environment (Ubuntu and Debian)."
+  description = "Experience with working in a Linux environment (Ubuntu and Debian)."
 
 [[feature]]
   icon = "microsoft"
