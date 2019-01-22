@@ -21,19 +21,10 @@ date_format = "January 2006"
 [[experience]]
   title = "Junior Programmer"
   company = "Het NIC"
-  company_url = ""
+  company_url = "https://inkoopprojecten.hetnic.nl/home"
   location = "Eindhoven"
   date_start = "2017-07-01"
   date_end = ""
   description = "Working on .NET applications"
-
-[[experience]]
-  title = ""
-  company = ""
-  company_url = ""
-  location = "Rocket League"
-  date_start = "2019-12-01"
-  date_end = "2019-12-31"
-  description = "Got carried."
 
 +++

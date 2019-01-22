@@ -7,7 +7,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Custom Section"
+title = "Projects Contributed"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -15,6 +15,8 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+Bart has contributed to multiple GitHub projects, most noteable:
 
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+- [Bogus](https://github.com/bchavez/Bogus) (.NET)
+- [Smash.gg Docs](https://github.com/smashgg/developer-portal) (Markdown)
+- [FightCore](https://github.com/FightCore/FightCore) (.NET Core and Angular)

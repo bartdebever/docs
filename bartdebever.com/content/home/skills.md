@@ -46,15 +46,35 @@ weight = 7
   description = "Basic expierience using the Angular framework."
 
 [[feature]]
-  icon = "markdown"
+  icon = "js"
   icon_pack = "fab"
-  name = "Markdown"
-  description = "Experienced in writing clean and maintainable markdown documents."
+  name = "JavaScript"
+  description = "Experience in creating JavaScript classes and working in dependencyless JavaScript files."
 
 [[feature]]
   icon = "html5"
   icon_pack = "fab"
   name = "Basic web development"
   description = "Basic experience with HTML, CSS and JavaScript."
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python 3"
+  description = "Basic experience with Python. Including NumPy, Pandas, MatPlotLib and Skitlearn."
+  #TODO check skitlearn spelling.
+
+  [[feature]]
+  icon = "linux"
+  icon_pack = "fab"
+  name = "Linux Experience"
+  description = "Basic experience with working in a Linux environment (Ubuntu and Debian)."
+
+[[feature]]
+  icon = "microsoft"
+  icon_pack = "fab"
+  name = "SQL Server"
+  description = "Experienced in writing SQL querys and basic experience in database design."
+
 
 +++
