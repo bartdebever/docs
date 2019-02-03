@@ -1,14 +1,15 @@
 +++
-title = "FightCore"
+title = "Winleafs"
 date = 2019-01-19T22:17:54+01:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["web-application"]
+tags = ["windows", "C#", "wpf", "nanoleaf"]
 
 # Project summary to display on homepage.
-summary = "A webapplication designed for the Fighting Game Community. Made in Angular and ASP.Net Core."
+summary = """
+A Windows client to control your [Nanoleaf](https://nanoleaf.me) lights."""
 
 # Slides (optional).
 #   Associate this page with Markdown slides.

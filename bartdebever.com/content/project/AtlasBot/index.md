@@ -1,5 +1,5 @@
 +++
-title = "FightCore"
+title = "AtlasBot"
 date = 2019-01-19T22:17:54+01:00
 draft = false
 
@@ -8,7 +8,8 @@ draft = false
 tags = ["web-application"]
 
 # Project summary to display on homepage.
-summary = "A webapplication designed for the Fighting Game Community. Made in Angular and ASP.Net Core."
+summary = """
+A [Discord](https://discordapp.com) chat bot that displays various kinds of gaming related information."""
 
 # Slides (optional).
 #   Associate this page with Markdown slides.

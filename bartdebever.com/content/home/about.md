@@ -30,6 +30,8 @@ weight = 5
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Bart de Bever is a software engineering student at Fontys in Eindhoven. He has mostly gained experience through expirimentation with several projects. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+He prefers to work in the high-level languages and has a strong liking towards web applications, especially working on APIs.
+
+Current projects include a desktop application for controlling smart home lights, a web application for making blog posts and a chat bot.
